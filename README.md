@@ -7,5 +7,5 @@ Para aumetar ou diminuiu o valor de uma variável em uma unidade, podemos utiliz
 - Para sbtrair 1 de x, podemos escrever x--; que produz o mesmo resultado de x = x - 1
 
   int numero = 10;
-  numero++;
-  numero--;
+  - numero++;
+  - numero--;
